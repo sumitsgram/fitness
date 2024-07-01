@@ -1,0 +1,33 @@
+/* src/components/WorkoutList.css */
+
+.workout-list {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+.workout-list h2 {
+  margin-bottom: 20px;
+}
+
+.workout-list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.workout-list li {
+  margin-bottom: 10px;
+}
+
+.add-workout-button {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+}
